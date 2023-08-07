@@ -291,6 +291,7 @@
 	navbarState();
 	clickMenu();
 	smoothScroll();
+	magnificPopupControl();
     });
 
     $(window).on('load', function() {
